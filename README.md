@@ -38,3 +38,4 @@ A small tool based on Nodejs environment, using Puppeter to take full screen scr
 3. 执行：npm install 初始化依赖
 4. 执行：node ./screenshots.js 开启服务
 5. 配置文件 conf.json 中可以调整服务端口和截图保存目录名称
+6. 也可利用 pkg 将 ./screenshots.js 打包部署到服务器
